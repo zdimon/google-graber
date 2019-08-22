@@ -466,7 +466,7 @@ def get_browser_with_url(url, timeout=120, driver="firefox"):
         print("Driver choosen is not recognized")
 
     # set maximum load time
-    browser.set_page_load_timeout(timeout)
+    #browser.set_page_load_timeout(timeout)
 
     # open a browser with given url
     browser.get(url)

@@ -2,3 +2,5 @@ bs4
 fake-useragent
 requests
 selenium
+Django
+psycopg2
